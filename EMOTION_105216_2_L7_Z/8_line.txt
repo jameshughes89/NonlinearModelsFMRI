@@ -1,0 +1,1 @@
+ (sin( v5 )+ ( ( ( v14 - ( v5 - v1 ) ) - (cos( v16 )* v24 ) ) * (cos( (cos( v16 )/cos( v16 )) )*cos( (cos( v16 )/cos( v16 )) )) ) ) 

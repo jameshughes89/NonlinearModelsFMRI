@@ -1,0 +1,1 @@
+ ( ( v5 - (sin( (sin( (tan(abs(sin( v21 )))*sin( v21 )) )* ( v18 / ( v21 +sin( v21 )) ) ) )- ( v1 + ( v22 + (tan(abs(sin( v21 )))*sin( v21 )) ) ) ) ) * ( ( -5.72898650690707 + ( (sin( (tan(abs(sin( v21 )))*sin( v21 )) )* ( v18 / ( v21 +sin( v21 )) ) ) +tan(abs(sin( v21 )))) ) / ( v26 - 15.181932079800966 ) ) ) 

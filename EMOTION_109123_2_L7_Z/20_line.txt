@@ -1,0 +1,1 @@
+ ( ( v7 + ( ( (sin( (abs(sin( v18 ))+ v6 ) )- v15 ) -sin(sin( (abs(sin( v18 ))+ v6 ) ))) /e(e( v22 ))) ) + ( ( (abs( v22 )/ (e( (abs(sin( v18 ))+ v6 ) )+abs(sin( v18 ))) ) + (sin( v4 )- v13 ) ) *sin(sin( (abs(sin( v18 ))+ v6 ) ))) ) 

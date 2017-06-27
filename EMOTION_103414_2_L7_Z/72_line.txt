@@ -1,0 +1,1 @@
+ ( ( ( ( ( v1 - v20 ) - v0 ) + ( v26 +sin(sin( v20 ))) ) + v18 ) /e(cos(cos(abs( ( v26 +sin(sin( v20 ))) ))))) 

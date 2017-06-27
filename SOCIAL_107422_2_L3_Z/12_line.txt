@@ -1,0 +1,1 @@
+ ( ( ( v25 /e( ( ( v3 /sin(e(sin( v3 )))) /sin( v3 )) )) -sin( (sin( v3 )+ ( ( v23 + v1 ) / -4.629675503215648 ) ) )) + ( v0 / (cos(sin(e(sin( v3 ))))+sin(e(sin( v3 )))) ) ) 

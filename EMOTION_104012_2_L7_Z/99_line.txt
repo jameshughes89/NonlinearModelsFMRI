@@ -1,0 +1,1 @@
+ ( ( ( ( v6 *cos(sin(cos( ( v9 - v12 ) )))) *cos(sin(cos( ( v9 - v12 ) )))) + ( v10 - v9 ) ) +sin( ( (sin(cos( ( v9 - v12 ) ))* v26 ) - ( ( ( v6 *cos(sin(cos( ( v9 - v12 ) )))) *cos(sin(cos( ( v9 - v12 ) )))) + ( v10 - v9 ) ) ) )) 

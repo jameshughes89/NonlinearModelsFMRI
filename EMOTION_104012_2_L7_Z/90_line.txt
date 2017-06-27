@@ -1,0 +1,1 @@
+ (sin(abs( (abs(sin( v19 ))+ (abs(sin( v19 ))*sin( v6 )) ) ))* ( ( ( v10 + v6 ) - v9 ) *cos(sin( (sin( v6 )-sin( v19 )) ))) ) 

@@ -1,0 +1,1 @@
+ ( ( v0 + ( ( (sin(sin(cos( v12 )))* ( v9 * ( v18 +cos( v18 )) ) ) *abs(sin(sin(cos( v12 ))))) + ( ( v7 - v18 ) / 1.6299800267133477 ) ) ) *cos(cos(sin( v7 )))) 

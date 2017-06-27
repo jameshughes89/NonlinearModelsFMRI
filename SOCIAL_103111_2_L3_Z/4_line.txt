@@ -1,0 +1,1 @@
+ ( v24 + ( ( ( (abs( v15 )-cos(sin( v28 ))) + ( (sin( v28 )/ v28 ) * ( v7 - ( v18 -sin( v7 )) ) ) ) - ( (sin( v7 )- v19 ) + v3 ) ) /e(cos(sin(cos( v1 ))))) ) 

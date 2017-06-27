@@ -1,0 +1,1 @@
+ ( ( ( (sin(sin( v9 ))+ v7 ) + v2 ) - ( ( v8 - ( ( v6 + v15 ) +sin( v9 )) ) - v27 ) ) * (e(cos(sin(sin(sin( v9 )))))/e(e(cos(sin(sin(sin( v9 ))))))) ) 

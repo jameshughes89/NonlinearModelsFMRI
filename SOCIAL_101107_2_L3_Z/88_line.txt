@@ -1,0 +1,1 @@
+ ( (cos( (e( ( v2 *abs( v2 )) )- ( ( (abs( v2 )/ v27 ) * (abs( v2 )/ v27 ) ) - (abs( v2 )/ v27 ) ) ) )+ v2 ) -sin( ( (cos( (e( ( v2 *abs( v2 )) )- ( ( (abs( v2 )/ v27 ) * (abs( v2 )/ v27 ) ) - (abs( v2 )/ v27 ) ) ) )+ v2 ) - ( v7 *cos(cos( (abs( v2 )/ v27 ) ))) ) )) 

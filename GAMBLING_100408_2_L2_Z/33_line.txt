@@ -1,0 +1,1 @@
+ ( ( ( ( v21 + v6 ) -cos( ( (cos(cos( v6 ))+ v9 ) - v26 ) )) + (cos(tan(sin( v26 )))+tan(sin( v26 ))) ) /abs(abs( 2.673457178402252 ))) 

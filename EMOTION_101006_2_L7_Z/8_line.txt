@@ -1,0 +1,1 @@
+ ( (sin(cos(cos( ( v6 * v4 ) )))* (sin( ( v6 - v28 ) )- v11 ) ) + ( ( v7 + v23 ) /e(abs(cos( v7 )))) ) 

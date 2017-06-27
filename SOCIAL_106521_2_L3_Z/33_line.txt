@@ -1,0 +1,1 @@
+ ( ( ( v7 *cos(cos( v9 ))) + ( v0 - ( ( v18 - ( v22 /e(cos(cos( v9 )))) ) *sin(e(cos(cos( v9 ))))) ) ) *cos(cos( ( v12 - v9 ) ))) 

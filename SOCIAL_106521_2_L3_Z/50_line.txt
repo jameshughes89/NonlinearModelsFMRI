@@ -1,0 +1,1 @@
+ ( ( ( v7 + v0 ) + ( ( v18 / (abs( v12 )-e(abs( v12 ))) ) - ( ( ( v7 + v14 ) - ( (abs( v9 )+ v18 ) * v9 ) ) / (e(e(abs( v12 )))- v18 ) ) ) ) *sin(cos(cos(abs( v9 ))))) 

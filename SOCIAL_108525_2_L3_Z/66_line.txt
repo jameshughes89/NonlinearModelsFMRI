@@ -1,0 +1,1 @@
+ (sin( ( ( (sin( v24 )- v12 ) +e(abs( v24 ))) / ( ( ( (abs( v15 )+ v15 ) - v12 ) - ( (sin( v24 )* v12 ) -e(abs( v24 ))) ) +abs( v4 )) ) )* ( (abs(sin( v24 ))*sin( v24 )) + v7 ) ) 

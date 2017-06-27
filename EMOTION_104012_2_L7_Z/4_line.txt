@@ -1,0 +1,1 @@
+ (sin(sin(e(sin( v4 ))))* ( (abs( v9 )* ( v15 - v9 ) ) + ( v26 +sin( v4 )) ) ) 

@@ -1,0 +1,1 @@
+ ( 0.290971617553911 * ( ( ( ( v24 *sin(cos(cos( v23 )))) + ( (cos( v23 )* v23 ) + v23 ) ) + ( (tan(cos( v23 ))+cos(cos( v23 ))) * (sin(cos(cos( v23 )))- v5 ) ) ) - (tan(cos( v21 ))- ( v26 + ( v10 + v25 ) ) ) ) ) 

@@ -1,0 +1,1 @@
+ ( ( ( v18 + v17 ) + ( ( v15 - ( v24 + ( v26 + v6 ) ) ) + v1 ) ) / (e(cos(sin( (abs( v6 )* v18 ) )))+ (abs( v6 )/abs(e(cos(sin( (abs( v6 )* v18 ) ))))) ) ) 

@@ -1,0 +1,1 @@
+ ( ( v0 - ( ( ( ( v0 - v25 ) -cos( ( ( (sin(sin( v3 ))+ v3 ) - v14 ) +cos( v15 )) )) *cos(sin(sin( v3 )))) /e(abs(sin( (sin(sin( v3 ))+ v3 ) )))) ) -sin(sin(sin( v3 )))) 

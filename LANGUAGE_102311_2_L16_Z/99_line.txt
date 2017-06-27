@@ -1,0 +1,1 @@
+ ( ( ( v9 - v25 ) - ( ( ( v13 - ( v17 +sin( v0 )) ) - v7 ) *e(sin(e( v0 )))) ) /abs( (e(sin(e( v0 )))+abs(e(sin(e( v0 ))))) )) 

@@ -1,0 +1,1 @@
+ (sin(sin( v7 ))+ ( ( (cos( ( v13 / v9 ) )* v27 ) + ( v17 - v26 ) ) /e(cos(cos( ( ( v25 - v13 ) *abs(abs( (cos( ( v13 / v9 ) )* v27 ) ))) )))) ) 

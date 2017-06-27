@@ -1,0 +1,1 @@
+ ( v8 - ( ( ( (abs(sin(sin( v18 )))+sin(sin( v18 ))) +sin(sin( v18 ))) + ( ( ( ( v5 - v19 ) - ( v14 *sin( v18 )) ) *cos(sin( v18 ))) -sin(cos( ( v17 *sin( v18 )) ))) ) / 1.449903448704383 ) ) 

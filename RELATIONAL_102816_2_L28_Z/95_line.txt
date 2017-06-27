@@ -1,0 +1,1 @@
+ ( ( ( (cos( v27 )-sin( v1 )) - (cos( v27 )* v27 ) ) / ( v28 - ( (sin( v1 )- (cos( v27 )-sin( v1 )) ) + -5.236065962772338 ) ) ) + ( v1 - (sin( (sin( v1 )- (cos( v27 )-sin( v1 )) ) )* (cos( v27 )* ( (cos( v27 )* v27 ) *cos(sin( v1 ))) ) ) ) ) 

@@ -1,0 +1,1 @@
+ ( (cos( ( (sin(sin( v2 ))+e( v2 )) -e(sin( ( v7 + v2 ) ))) )* ( ( v24 - v17 ) /e(e( v2 ))) ) - (cos(cos( v24 ))* ( ( (sin(sin( v2 ))- (cos( ( (sin(sin( v2 ))+e( v2 )) -e(sin( ( v7 + v2 ) ))) )*cos( v24 )) ) / (sin( ( v7 + v2 ) )+ -2.6061640402123096 ) ) - v7 ) ) ) 

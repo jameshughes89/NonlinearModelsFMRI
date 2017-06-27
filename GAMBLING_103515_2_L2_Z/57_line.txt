@@ -1,0 +1,1 @@
+ ( ( v20 *cos(cos(abs(e( v20 ))))) - ( ( v7 - (e( v20 )-e( v27 )) ) / ( (sin( 4.050167118691306 )*e( ( (e( v27 )*abs(e( v20 ))) * v20 ) )) - ( (abs(cos(abs(e( v20 ))))+cos(abs(e( v20 )))) + ( v24 +abs(cos(abs(e( v20 ))))) ) ) ) ) 

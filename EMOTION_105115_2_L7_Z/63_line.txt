@@ -1,0 +1,1 @@
+ (sin( (cos(cos(cos( v3 )))* v7 ) )- (tan(tan( ( v26 / -14.382438875356547 ) ))* ( (abs( v3 )/cos(cos( v3 ))) * ( 4.008366279194195 /tan(sin(cos(cos( v3 ))))) ) ) ) 

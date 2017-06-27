@@ -1,0 +1,1 @@
+ ( ( ( v27 - ( v7 + ( ( v13 - v28 ) / (e( v13 )+cos(e( v13 ))) ) ) ) /e( (cos(cos(cos(e( v13 ))))-sin( (cos(cos(cos(e( v13 ))))* ( ( v13 - v28 ) / (e( v13 )+cos(e( v13 ))) ) ) )) )) + v7 ) 

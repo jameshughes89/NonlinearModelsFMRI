@@ -1,0 +1,1 @@
+ ( ( (cos( (sin( v25 )/ v25 ) )* v14 ) + ( v26 + ( v7 - v25 ) ) ) /e(cos(sin(tan(cos( (abs( v26 )+ v23 ) )))))) 

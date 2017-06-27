@@ -1,0 +1,1 @@
+ ( ( ( v26 -sin( ( v20 - v18 ) )) - (sin(sin( v14 ))+ (sin(sin( v14 ))- v10 ) ) ) /e(abs(sin( v14 )))) 

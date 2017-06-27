@@ -1,0 +1,1 @@
+ ( ( ( ( ( (abs( v6 )-sin( v25 )) - v19 ) + v27 ) + v6 ) / ( (e( v26 )+e(abs( (abs( v6 )-sin( v25 )) ))) /cos( v8 )) ) + ( v17 -sin( ( (e(abs( (abs( v6 )-sin( v25 )) ))/abs( (e( v26 )+e(abs( (abs( v6 )-sin( v25 )) ))) )) * ( v17 - v25 ) ) )) ) 

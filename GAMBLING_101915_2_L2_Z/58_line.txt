@@ -1,0 +1,1 @@
+ ( ( ( ( v9 + ( v6 /e(abs( ( v28 - v14 ) ))) ) + v15 ) + v7 ) / (e(cos(cos(tan( v15 ))))+tan(cos(sin( ( v28 - v14 ) )))) ) 

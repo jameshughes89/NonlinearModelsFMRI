@@ -1,0 +1,1 @@
+ ( ( ( ( (cos( v12 )*cos( v12 )) * v25 ) - ( (cos( v12 )*sin( v24 )) - v0 ) ) -sin( ( (sin( v24 )* ( ( (sin( v24 )*sin( v24 )) - (cos( v12 )*sin( v24 )) ) - v7 ) ) + v18 ) )) *abs(sin(cos(sin( v24 ))))) 

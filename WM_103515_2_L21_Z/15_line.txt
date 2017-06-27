@@ -1,0 +1,1 @@
+ (sin(cos(cos( (abs( v10 )* ( v27 *sin( v20 )) ) )))* ( ( ( v20 - v27 ) +sin( v19 )) + v17 ) ) 

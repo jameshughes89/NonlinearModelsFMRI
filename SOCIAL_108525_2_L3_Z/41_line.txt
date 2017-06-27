@@ -1,0 +1,1 @@
+ ( ( v19 * (cos(abs( v26 ))- ( ( (tan(sin(cos( v2 )))*tan(sin(cos( v2 )))) *cos(abs( v19 ))) * (cos( v2 )* v2 ) ) ) ) - ( ( v8 - v22 ) / ( -1.96305931657216 -cos( v8 )) ) ) 

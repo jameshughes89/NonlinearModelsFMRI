@@ -1,0 +1,1 @@
+ ( v27 + ( ( ( ( v1 *abs( v5 )) +sin( v18 )) * (cos(cos(abs(abs( v2 ))))/ (e(abs( v2 ))/cos(cos(abs(abs( v2 ))))) ) ) - ( v27 / ( ( (e(abs( v2 ))/abs( v2 )) - ( v2 - v2 ) ) -sin( v1 )) ) ) ) 

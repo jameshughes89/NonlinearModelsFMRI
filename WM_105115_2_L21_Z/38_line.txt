@@ -1,0 +1,1 @@
+ (sin( -6.108806737862928 )* ( ( v21 + ( v9 +sin( (e(cos(abs( v23 )))* ( v7 *abs(abs( v23 ))) ) )) ) - ( (cos(abs( v23 ))* v26 ) - ( v24 + ( v17 + ( v21 + ( v9 +sin( (e(cos(abs( v23 )))* ( v7 *abs(abs( v23 ))) ) )) ) ) ) ) ) ) 

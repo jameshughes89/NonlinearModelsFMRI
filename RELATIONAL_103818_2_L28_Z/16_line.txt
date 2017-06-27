@@ -1,0 +1,1 @@
+ ( ( ( v27 + v15 ) + (sin( v18 )*cos( v11 )) ) /e(cos(sin(sin( ( v4 / v8 ) ))))) 

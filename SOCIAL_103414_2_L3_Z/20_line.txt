@@ -1,0 +1,1 @@
+ ( ( ( v0 + (sin( (cos(sin( v3 ))- ( (cos( v3 )/cos( v3 )) + ( ( v3 -cos( v26 )) +abs( v6 )) ) ) )+ v25 ) ) +sin( v19 )) /e(cos(cos( v3 )))) 

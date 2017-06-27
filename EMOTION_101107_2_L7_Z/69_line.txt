@@ -1,0 +1,1 @@
+ ( v27 + ( ( ( v19 - v1 ) * ( v8 - ( v17 / (abs( v1 )+cos(tan(sin( v17 )))) ) ) ) *cos(tan(sin( v17 )))) ) 

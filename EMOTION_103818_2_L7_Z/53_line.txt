@@ -1,0 +1,1 @@
+ ( ( ( (cos( v28 )* v1 ) + v25 ) /e(cos(cos( v24 )))) - ( (sin( v9 )/cos(cos( v9 ))) /e(abs( ( v1 / v12 ) ))) ) 

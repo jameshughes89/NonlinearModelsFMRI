@@ -1,0 +1,1 @@
+ ( ( v26 /e(cos( (cos( v3 )* v3 ) ))) +sin( ( ( v7 -sin(tan(abs( ( (cos( v3 )* v3 ) * v27 ) )))) *cos(cos( v3 ))) )) 

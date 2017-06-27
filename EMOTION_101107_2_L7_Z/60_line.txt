@@ -1,0 +1,1 @@
+ ( v27 - ( ( ( v27 -sin( v3 )) * (sin(tan( v5 ))*cos( ( v5 / v25 ) )) ) /e( (sin( v3 )* ( v27 -sin( v3 )) ) )) ) 

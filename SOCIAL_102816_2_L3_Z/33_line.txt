@@ -1,0 +1,1 @@
+ ( ( v16 + ( v0 -tan(sin( ( v28 - (sin( v19 )+ v8 ) ) ))) ) /e(cos(cos( ( v4 + ( ( v16 *sin( v19 )) * ( v16 *sin( v19 )) ) ) )))) 

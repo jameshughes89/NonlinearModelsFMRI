@@ -1,0 +1,1 @@
+ ( ( ( v7 /e(abs( ( v19 - v10 ) ))) - (tan(sin( v25 ))- v26 ) ) *cos(sin(abs(e(abs( ( v19 - v10 ) )))))) 

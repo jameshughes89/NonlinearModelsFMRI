@@ -1,0 +1,1 @@
+ ( ( (sin(sin( ( v21 - v4 ) ))+ ( v20 + v2 ) ) +sin( v22 )) /e(cos( (sin(tan( ( ( v21 - v4 ) * ( v20 + v2 ) ) ))*sin(sin( ( v21 - v4 ) ))) ))) 

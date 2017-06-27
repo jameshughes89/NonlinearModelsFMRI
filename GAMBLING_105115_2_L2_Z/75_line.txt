@@ -1,0 +1,1 @@
+ ( (cos(cos( v7 ))/e(cos(cos( v17 )))) * ( ( ( v27 +sin( v9 )) -cos(e( v7 ))) + v25 ) ) 

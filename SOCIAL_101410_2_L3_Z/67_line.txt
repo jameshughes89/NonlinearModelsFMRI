@@ -1,0 +1,1 @@
+ ( ( ( ( v25 + ( v0 -sin( v28 )) ) *cos(sin( v21 ))) +sin( ( (cos(sin( v21 ))* v2 ) - v17 ) )) *cos(cos(sin( v21 )))) 
